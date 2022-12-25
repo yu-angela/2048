@@ -1,6 +1,4 @@
 /*  Name: Angela Yu
-*  PennKey: yuangel
-*  Recitation: 206
 *  Execution: N/A (no main method)
 *
 *  A class that allows for Tiles to be generated with unique values that represent
