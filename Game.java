@@ -1,6 +1,4 @@
 /*  Name: Angela Yu
-*  PennKey: yuangel
-*  Recitation: 206
 *  Execution: java Game
 *
 *  A class that represents and enables actual gameplay, allowing for 2048 to run
